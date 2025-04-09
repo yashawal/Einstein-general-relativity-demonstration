@@ -1,4 +1,3 @@
-```markdown
 # General Relativity Visualization
 
 An interactive Python visualization tool to demonstrate key concepts from Einstein’s General Theory of Relativity in 3D and 2D.
@@ -7,53 +6,108 @@ An interactive Python visualization tool to demonstrate key concepts from Einste
 
 This project is an educational tool to visualize three fundamental aspects of General Relativity:
 
-- Spacetime Curvature - How massive objects curve spacetime
-- Gravitational Lensing - How light bends around massive objects
-- Gravitational Time Dilation - How time flows in gravitational fields
+
+
+
+
+### Spacetime Curvature - How massive objects curve spacetime
+
+
+
+### Gravitational Lensing - How light bends around massive objects
+
+
+
+### Gravitational Time Dilation - How time flows in gravitational fields
 
 ## Features
 
-- 3D spacetime curvature with orbiting particles
-- Visual representation of gravitational lensing effects on light sources
-- Graph of time dilation at different distances from a massive object
-- Simple menu-driven interface
-- Educational explanations
+
+
+
+
+3D spacetime curvature with orbiting particles
+
+
+
+Visual representation of gravitational lensing effects on light sources
+
+
+
+Graph of time dilation at different distances from a massive object
+
+
+
+Simple menu-driven interface
+
+
+
+Educational explanations
 
 ## Requirements
 
-- Python 3.6+
-- NumPy
-- Matplotlib
-- Matplotlib’s Animation and 3D Toolkit
+
+
+
+
+Python 3.6+
+
+
+
+NumPy
+
+
+
+Matplotlib
+
+
+
+Matplotlib’s Animation and 3D Toolkit
 
 ## Installation
 
-1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/yourusername/general-relativity-visualization.git
-   cd general-relativity-visualization
-   ```
 
-2. Install required dependencies:
 
-   ```bash
-   pip install numpy matplotlib
-   ```
+
+Clone this repository:
+
+git clone https://github.com/yourusername/general-relativity-visualization.git
+cd general-relativity-visualization
+
+
+
+
+
+Install required dependencies:
+
+pip install numpy matplotlib
+
+
 
 ## Usage
 
 Run the main script to start the interactive visualization:
 
-```bash
 python relativity_sim.py
-```
+
+
 
 Follow the on-screen menu to select which visualization you’d like to see:
 
-- Option 1: Spacetime Curvature
-- Option 2: Gravitational Lensing
-- Option 3: Gravitational Time Dilation
+
+
+
+
+Option 1: Spacetime Curvature
+
+
+
+Option 2: Gravitational Lensing
+
+
+
+Option 3: Gravitational Time Dilation
 
 ## Simulation Details
 
@@ -69,9 +123,7 @@ Light paths bending around massive objects. Blue dots are original light source 
 
 Time passage on Earth vs a satellite near a massive object. Why GPS satellites need to account for relativistic effects.
 
-## Educational Context
-
-For educational purposes only to help students and enthusiasts grasp General Relativity concepts. Simulations use simplified models to capture the essence of relativistic effects.
+## Educational ContextFor educational purposes only to help students and enthusiasts grasp General Relativity concepts. Simulations use simplified models to capture the essence of relativistic effects.
 
 ## Contribute
 
@@ -83,6 +135,12 @@ MIT License - see LICENSE file.
 
 ## Credits
 
-- Einstein’s General Theory of Relativity (1915)
-- Modern physics education resources
-```
+
+
+
+
+Einstein’s General Theory of Relativity (1915)
+
+
+
+Modern physics education resources
