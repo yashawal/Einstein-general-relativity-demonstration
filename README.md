@@ -29,8 +29,8 @@ This project is an educational tool to visualize three fundamental aspects of Ge
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/general-relativity-visualization.git
-   cd general-relativity-visualization
+   git clone https://github.com/yashawal/Einstein-general-relativity-demonstration.git
+   cd Einstein-general-relativity-demonstration
    ```
 
 2. Install required dependencies:
@@ -43,7 +43,7 @@ This project is an educational tool to visualize three fundamental aspects of Ge
 Run the main script to start the interactive visualization:
 
 ```
-python relativity_sim.py
+einstein_general_relativity.py
 ```
 
 Follow the on-screen menu to select which visualization you'd like to see:
