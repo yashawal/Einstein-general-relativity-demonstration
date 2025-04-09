@@ -1,6 +1,6 @@
-# General Relativity Visualization
+# Einstein's General Relativity Theory Visualization
 
-An interactive Python visualization tool to demonstrate key concepts from Einstein's General Theory of Relativity in 3D and 2D.
+An interactive Python visualization tool to demonstrate key concepts from Einstein's General Theory of Relativity in 2D and 3D.
 
 ## Overview
 
